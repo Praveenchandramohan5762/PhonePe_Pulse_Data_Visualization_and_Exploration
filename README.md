@@ -13,7 +13,7 @@ Data Retrieval: Fetching data from the database to dynamically update the dashbo
 
 NAME : PRAVEEN CHANDRAMOHAN 
 
-LinkedIn: https://www.linkedin.com/in/vignesh15502/
+LinkedIn: https://www.linkedin.com/in/praveen-chandra-87b11b193/
 
 BATCH: DT26
 
